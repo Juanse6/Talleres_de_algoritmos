@@ -22,6 +22,6 @@ else:
     T=C-D
 
 print(f"Estimado {N}")
-print(f"EL total de su compra es de: {C} COP")
-print(f"Se le ha aplicado un descuento de {X} equivalente a: {D} COP")
-print(f"EL total final de la compra es de: {T} COP")
+print(f"Elm total de su compra es de: {C} COP")
+print(f"Se le aplico un descuento de {X} equivalente a: {D} COP")
+print(f"El total de la compra es de: {T} COP")
